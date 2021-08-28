@@ -4,7 +4,7 @@
 
 ### Purpose
 
-This analysis is to help an up-and-coming playwright, Louis, who wants to start a crowdfunding campaign to help fund her play - Fever. By using Excel, we analyze crowdfunding data to determine whether there are specific factors to make a project's campaign successful. We take a look at the crowdfunding outcomes based on launch date as well as the outcomes based on the goals set for the campaigns. These insights are used to help Louis gain a greater understanding of campaigns so that she can mirror other succcessful campaigns in her category. 
+This analysis is to help an up-and-coming playwright, Louis, who wants to start a crowdfunding campaign to help fund her play - Fever. She's estimating a budget of over $10,000. By using Excel, we analyze crowdfunding data to determine whether there are specific factors to make a project's campaign successful. We take a look at the crowdfunding outcomes based on launch dates as well as the outcomes based on the goals set for the campaigns. These insights are used to help Louis gain a greater understanding of campaigns so that she can mirror other succcessful campaigns in her category. 
 
 ## Analysis and Challenges
 
@@ -36,13 +36,13 @@ It is challenging to pin point the exact formula to a successful camaign. For ex
 ### Conclusions made about the Analysis of Outcomes Based on Goals
 
 - Fundraising goals of less than $5000 had the highest success rates
+- We could also conclude that other factors other than fundraising goals play a part in a successful campaign as we saw goals set between $35,000 and $44,999 also had high success rates
 
 ### Summary
 
-As explained in the challenges and difficulties section, there are some limitations of this data set.
+There are some limitations to this dataset that include:
 
-- What are some limitations of this dataset?
+- Data limited to only 2010-2017, fresher data could help with more recent years
+- Lack of data about the form of marketing and promotion in executing the campaign fundraising (i.e. email marketing, social media, etc.)
 
-- What are some other possible tables and/or graphs that we could create?
-
-Another table/graph we could create could be 
+Another graph we could create could be another line graph of Theater Outcomes by Launch Date using percentages. As noted in the Analysis of Outcomes by Launch Date, the most successful campaigns launched in May. However, May also had the most failed campaigns by quantity. If we used percentages, we would see that May had the highest percentage of successful campaigns (67%) followed by June (65%), and December had the highest percentage failed (47%) followed by October (43%). To enhance this chart even further we could filter on goals with about $10,000 since Louis is budgeting over $10,000 for her campaign.
