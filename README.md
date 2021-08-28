@@ -36,13 +36,13 @@ It is challenging to pin point the exact formula to a successful camaign. For ex
 ### Conclusions made about the Analysis of Outcomes Based on Goals
 
 - Fundraising goals of less than $5000 had the highest success rates
-- We could also conclude that other factors other than fundraising goals play a part in a successful campaign as we saw goals set between $35,000 and $44,999 also had high success rates
+- We could also conclude that other factors other than fundraising goals play a part in a successful campaign as we saw goals set between $35,000 and $44,999 also having high success rates
 
 ### Summary
 
 There are some limitations to this dataset that include:
 
 - Data limited to only 2010-2017, fresher data could help with more recent years
-- Lack of data about the form of marketing and promotion in executing the campaign fundraising (i.e. email marketing, social media, etc.)
+- Lack of data about the form of marketing and promotion used in executing the campaign fundraising (i.e. email marketing, social media, etc.)
 
 Another graph we could create could be another line graph of Theater Outcomes by Launch Date using percentages. As noted in the Analysis of Outcomes by Launch Date, the most successful campaigns launched in May. However, May also had the most failed campaigns by quantity. If we used percentages, we would see that May had the highest percentage of successful campaigns (67%) followed by June (65%), and December had the highest percentage failed (47%) followed by October (43%). To enhance this chart even further we could filter on goals with about $10,000 since Louise is budgeting over $10,000 for her campaign.
