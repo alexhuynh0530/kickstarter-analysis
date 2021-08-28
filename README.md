@@ -12,7 +12,7 @@ This analysis is to help an up-and-coming playwright, Louise, who wants to start
 
 ![Theater_Outcomes_vs_Launch.png](https://github.com/alexhuynh0530/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
-The line chart above illustrates the outcomes of campaigns in the theater category versus the date they launched using months of the year. Based on the chart, we can see that May was the most successful month to launch. You can also see that Decemeber had the lowest success rate. Although May also has the greatest number of failures, we want to take into account that the total amount of theaters that launched during that month which was also the highest at 166. 
+The line chart above illustrates the outcomes of campaigns in the theater category versus the date they launched using months of the year. Based on the chart, we can see that May was the most successful month to launch. You can also see that Decemeber had the lowest success rate. Although May also has the greatest number of failures, we want to take into account that the total amount of theaters that launched during that month. You'll see that May had the highest total number of campaigns launched with 166 outcomes. 
 
 ### Analysis of Outcomes Based on Goals
 
