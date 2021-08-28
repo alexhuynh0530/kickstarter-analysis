@@ -16,7 +16,7 @@ The line chart above illustrates the outcomes of campaigns in the theater catego
 
 ### Analysis of Outcomes Based on Goals
 
-![Outcomes_vs_Goals.png](https://github.com/alexhuynh0530/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
+![Outcomes_vs_Goals.png](https://github.com/alexhuynh0530/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 The line chart above illustrates the outcomes of campaigns versus the fundraising goals they set. Based on the chart, we can see that campaigns with goals less than $5,000 had higher success rates. Specifically, campaigns with goals less than $1,000 had 76% success, and campaigns with goals between $1,000 and $4,999 had 73% success. On the other hand, you can see that campaigns with higher goals above $45,000 had a higher rate of failure. Campaigns with goals between $45,000 and $49,999 had 100% failure, and campaigns with goals greater than $50,000 had 88% failure.
 
