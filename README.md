@@ -10,13 +10,13 @@ This analysis is to help an up-and-coming playwright, Louise, who wants to start
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Theater_Outcomes_vs_Launch.png](https://github.com/alexhuynh0530/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch.png](https://github.com/alexhuynh0530/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
 The line chart above illustrates the outcomes of campaigns in the theater category versus the date they launched using months of the year. Based on the chart, we can see that May was the most successful month to launch. You can also see that Decemeber had the lowest success rate. Although May also has the greatest number of failures, we want to take into account that the total amount of theaters that launched during that month which was also the highest at 166. 
 
 ### Analysis of Outcomes Based on Goals
 
-![Outcomes_vs_Goals.png](https://github.com/alexhuynh0530/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](https://github.com/alexhuynh0530/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
 The line chart above illustrates the outcomes of campaigns versus the monetary goals they set to fund their campaigns. Based on the chart, we can see that campaigns with goals less tan $5000 had higher success rates with campaigns with goals less than $1000 having 76% success and campaigns with goals between $1000 and $4999 having 73% success. You can also see that campaigns with higher goals above $45,000 had higher rate of failure with campaigns with goals between $45,000 and $49,999 having 100% failure and campaigns with goals greater than $50,000 with 88% failure.
 
